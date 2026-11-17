@@ -1,5 +1,4 @@
 
-![image](https://github.com/user-attachments/assets/7ae1f1b2-3b1b-401f-a942-a87eb375b00f)
 <!--
 **inspextor/inspextor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
